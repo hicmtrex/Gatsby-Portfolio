@@ -1,0 +1,15 @@
+.project__details h2 {
+  font-size: 3.5em;
+  margin-top: 80px;
+}
+.project__details h3 {
+  font-size: 2em;
+  font-weight: 400;
+  margin-bottom: 40px;
+}
+.html {
+  margin-top: 40px;
+}
+.project__details__featured {
+  margin-bottom: 40px;
+}

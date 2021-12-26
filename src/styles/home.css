@@ -1,0 +1,22 @@
+.header__home {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 40px;
+  align-items: center;
+}
+.header__home h2 {
+  font-size: 4em;
+}
+.header__home h3 {
+  font-size: 3em;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+.btn__home {
+  display: inline-block;
+  background: #d42990;
+  padding: 10px 16px;
+  border-radius: 10px;
+  margin-top: 20px;
+  font-weight: 500;
+}

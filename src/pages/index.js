@@ -13,7 +13,7 @@ const IndexPage = ({ data }) => {
           <h3>Develop & Deploy</h3>
           <p>UX designer & web devloper based in Tunisie</p>
           <Link to="/projects" className="btn__home">
-            Projects
+            My Porfolio Projects
           </Link>
         </div>
 

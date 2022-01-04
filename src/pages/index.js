@@ -12,8 +12,8 @@ const IndexPage = ({ data }) => {
           <h2>Design</h2>
           <h3>Develop & Deploy</h3>
           <p>UX designer & web devloper based in Tunisie</p>
-          <Link to="/" className="btn__home">
-            btn
+          <Link to="/projects" className="btn__home">
+            Projects
           </Link>
         </div>
 

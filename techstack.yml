@@ -2,7 +2,7 @@ repo_name: hicmtrex/Gatsby-Portfolio
 report_id: d975634d6d1ee883474563768d6409af
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-21T15:31:51+00:00'
+timestamp: '2024-01-05T08:17:04+00:00'
 requested_by: invalid-email-address
 provider: github
 branch: main
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/hicmtrex/Gatsby-Portfolio
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/hicmtrex/Gatsby-Portfolio
   detection_source: Repo Metadata
 - name: Bootstrap
   description: Simple and flexible HTML, CSS, and JS for popular UI components and
@@ -64,6 +66,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/hicmtrex/Gatsby-Portfolio
   detection_source: Repo Metadata
 - name: Prettier
   description: 'Prettier is an opinionated code formatter. '
@@ -87,6 +90,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/hicmtrex/Gatsby-Portfolio/blob/main/package.json
   detection_source: package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-12-25 14:56:56.000000000 Z
@@ -113,6 +117,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/hicmtrex/Gatsby-Portfolio/blob/main/src/notes/bar.txt
   detection_source: src/notes/bar.txt
 - name: gatsby-image
   description: Lazy-loading React image component with optional support for the blur-up

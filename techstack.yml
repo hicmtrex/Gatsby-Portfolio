@@ -2,7 +2,7 @@ repo_name: hicmtrex/Gatsby-Portfolio
 report_id: d975634d6d1ee883474563768d6409af
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:17:04+00:00'
+timestamp: '2024-02-29T19:09:27+00:00'
 requested_by: invalid-email-address
 provider: github
 branch: main
@@ -69,7 +69,7 @@ tools:
   detection_source_url: https://github.com/hicmtrex/Gatsby-Portfolio
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.5.1
   license: MIT
